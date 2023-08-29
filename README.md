@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Nepatin
+- 👀 I’m interested in be a fullstack developer
+- 🌱 I’m currently learning C++, Java.
+- 💞️ I’m looking to collaborate on projects.
+- 📫 How to reach me none
